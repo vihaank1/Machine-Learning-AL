@@ -10,7 +10,7 @@ Let’s dive into the algorithms and the stories they tell through data! 📊�
 
 ## 📂 Project Structure
 
-Each folder contains:
+Each file contains:
 - ✅ A Python notebook/script
 - 📁 The dataset (or loading script)
 - 🔍 Model accuracy and insights
